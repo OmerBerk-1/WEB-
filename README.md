@@ -1,6 +1,6 @@
 #Kişisel CV Web sayfası
 
-Bu proje html kullanılarak yapılmış ve cv içeren bir web sayfasıdır.
+Bu proje html kullanılarak yapılmıştır. Basit bir CV web sayfasıdır.
 
 #İçerik
 
